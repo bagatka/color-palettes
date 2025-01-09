@@ -1,0 +1,16 @@
+{
+  "name": "bagatka-palettes",
+  "displayName": "Bagatka Palettes",
+  "description": "Palettes contributed by Bagatka",
+  "version": "1.0",
+  "author": { "name": "Bagatka", "url": "https://twitter.com/alex_bagatka" },
+  "publisher": "bagatka",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "Lofi-House", "path": "./lofi-house.gpl" }
+    ]
+  }
+}
